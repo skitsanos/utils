@@ -4,7 +4,9 @@ If you find yourself frequently needing to copy and paste file and folder paths,
 
 ### Automator Service
 
-Launch Automator and create a new “Service”
-Use the search function to look for “Copy to Clipboard” and drag that into the rightside panel of the Service
-Set ‘Service recieves selected’ to “files or folders” and ‘in’ to “Finder” as shown in the screen shot below
-Save the Service with a name like “Copy Path”
+- Launch Automator and create a new "Service"
+- Use the search function to look for "Copy to Clipboard" and drag that into the rightside panel of the Service
+- Set ‘Service recieves selected’ to "files or folders" and "in" to "Finder"
+- Save the Service with a name like “Copy path”
+
+Now right click on any file or folder in Finder and you will have "Copy path" appeared as an option
